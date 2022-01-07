@@ -1,4 +1,3 @@
-#Git main
 #Git practice with branches
 
 - git branch [branch]
